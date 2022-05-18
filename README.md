@@ -1,2 +1,3 @@
 # ssnew
-ss new project
+ss new project 
+this is very useful
